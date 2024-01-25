@@ -10,6 +10,11 @@ Projeto desenvolvido durante a maratona premiada da kenzie academy no 11 de Junh
     <img align='center' height='40' width='60' title='Javascript' alt='javascript' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' />
 </div> 
 
+### Desafio durante o desenvolvimento
+Obtive dificuldade na implementação da funcionalidade de adicionar um novo produto no carrinho.
+Tendo isso em vista é algo que preciso melhorar e levar como aprendizado e continuar progredindo.
+
+
 
 
 
