@@ -1,39 +1,17 @@
-# Maratona premiada => Desenvolvendo restaurante Kenzie
+## Restaurante Kenzie
 
-Projeto desenvolvido para o maratona premiada no 11 de Junho de 2022.
+Projeto desenvolvido durante a maratona premiada da kenzie academy no 11 de Junho de 2022.
 
-## O projeto
+## Linguagens
 
-### Estrutura de arquivos
+<div>
+    <img align='center' height='40' width='60' title='HTML5' alt='html5' src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' />
+    <img align='center' height='40' width='60' title='CSS3' alt='css3' src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' />
+    <img align='center' height='40' width='60' title='Javascript' alt='javascript' src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' />
+</div> 
 
-- README.md
-- index.html
-- /assets
-  - /img
-  - /css
-    - style.css
-  - /js
-    - script.js
 
-### Fonte
 
-- 'Poppins', sans-serif;
 
-## Layout
 
-- [Layout Maratona premiada => Desenvolvendo restaurante Kenzie](https://www.figma.com/file/ONBBqq2qNpTSnixZHqUnSs/Maratona-Premiada---Kenzie?node-id=0%3A1)
 
-## LinkedIn dos Instrutores
-
-- [Nicole Pimenta](https://www.linkedin.com/in/nicole-pimenta/)
-- [Luiz Reis](https://www.linkedin.com/in/luiz-paulo-reis-cardoso/)
-
-## Referências
-
-- [W3Schools referência HTML](https://www.w3schools.com/tags/default.asp)
-- [W3Schools referência CSS](https://www.w3schools.com/cssref/default.asp)
-- [W3Schools propriedades CSS no DOM](https://www.w3schools.com/jsref/dom_obj_style.asp)
-- [Google Fonts](https://fonts.google.com/)
-- [Coolors](https://coolors.co/palettes/trending)
-- [Paletton](https://paletton.com/)
-- [MDN lista de eventos](https://developer.mozilla.org/en-US/docs/Web/Events)
